@@ -60,3 +60,4 @@ class Coffee:
         """
         print("This coffee is great, here’s a tip!")
         self.price += 1
+##The code above defines a Coffee class with a constructor that initializes the size and price of the coffee. It includes a property for size with a getter and setter to ensure valid sizes, and a method to add a tip that increases the price by 1.
